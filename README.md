@@ -1,1 +1,1 @@
-# Geekbase-Technology-Webdevelopment-Interndhip-Tasks
+# Geekbase-Technology-Webdevelopment-Internship-Tasks
